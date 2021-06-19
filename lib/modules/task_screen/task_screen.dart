@@ -1,13 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
-import 'package:sqflite/sqflite.dart';
-
-import 'package:taskapp/layout/bottom_navigation_screens/archive_task.dart';
-import 'package:taskapp/layout/bottom_navigation_screens/done_task.dart';
-import 'package:taskapp/layout/bottom_navigation_screens/new_task.dart';
 import 'package:taskapp/shared/components/components.dart';
-import 'package:taskapp/shared/components/constants.dart';
 import 'package:taskapp/shared/cubit/app_states.dart';
 import 'package:taskapp/shared/cubit/cubit.dart';
 

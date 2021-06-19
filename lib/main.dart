@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
               fontWeight: FontWeight.w600
           ),*/
           systemOverlayStyle: SystemUiOverlayStyle(
-            statusBarColor: Colors.orange
+            statusBarColor: Colors.white
           )
         ),
         primarySwatch: Colors.orange,
